@@ -1,0 +1,60 @@
+table {
+border: rgb(0, 0, 0) 1px solid;
+}
+
+td.td2 {
+    border: rgb(0, 0, 0) 1px solid;
+    }
+
+tr {
+    border: rgb(0, 0, 0) 1px solid;
+}
+
+td {
+    border: rgb(0, 0, 0) 1px solid;
+}
+
+
+
+
+
+.centrado {
+text-align: center;
+
+}
+
+.cajaa {
+background-color: rgb(255, 255, 255);
+border: 1px solid rgb(255, 255, 255);
+width: 300px;
+height: 250px;
+display: inline-block;
+
+}
+
+.cajar {
+background-color: rgb(255, 255, 255);
+border: 1px solid rgb(255, 255, 255);
+width: 300px;
+height: 250px;
+display: inline-block;
+
+}
+
+.cajay {
+background-color: rgb(255, 255, 255);
+border: 1px solid rgb(255, 255, 255);
+width: 300px;
+height: 250px;
+display: inline-block;
+
+}
+
+.cajav {
+background-color: green;
+border: 1px solid green;
+width: 900px;
+height: 30px;
+display: inline-block;
+
+}
